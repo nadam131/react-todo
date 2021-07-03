@@ -1,0 +1,94 @@
+{
+  "lists": [
+    {
+      "name": "Упражнения ",
+      "id": 1
+    },
+    {
+      "name": "Фронтенд",
+      "id": 2
+    },
+    {
+      "name": "Поездки",
+      "id": 3
+    },
+    {
+      "name": "Еда",
+      "id": 4
+    }
+  ],
+  "tasks": [
+    {
+      "text": "Пресс",
+      "listId": 1,
+      "checked": false,
+      "id": 1
+    },
+    {
+      "text": "Отжимания",
+      "listId": 1,
+      "checked": false,
+      "id": 2
+    },
+    {
+      "text": "Турник",
+      "listId": 1,
+      "checked": false,
+      "id": 3
+    },
+    {
+      "text": "Переделать функцию удаления ",
+      "listId": 2,
+      "checked": false,
+      "id": 4
+    },
+    {
+      "text": "Перепроверить другие функции, удалить ненужный код",
+      "listId": 2,
+      "checked": true,
+      "id": 5
+    },
+    {
+      "text": "Еще раз посмотреть чекбокс",
+      "listId": 2,
+      "checked": false,
+      "id": 6
+    },
+    {
+      "text": "Трубниково",
+      "listId": 3,
+      "checked": false,
+      "id": 7
+    },
+    {
+      "text": "Рим",
+      "listId": 3,
+      "checked": false,
+      "id": 8
+    },
+    {
+      "text": "Комарово",
+      "listId": 3,
+      "checked": false,
+      "id": 9
+    },
+    {
+      "text": "Лук",
+      "listId": 4,
+      "checked": true,
+      "id": 10
+    },
+    {
+      "text": "Морковь",
+      "listId": 4,
+      "checked": false,
+      "id": 11
+    },
+    {
+      "text": "Яйца",
+      "listId": 4,
+      "checked": false,
+      "id": 12
+    }
+  ]
+}
